@@ -5,3 +5,5 @@
 ## _Project Directors_: John N. Wall
 
 ## _Project URL_: [https://vpcp.chass.ncsu.edu/](https://vpcp.chass.ncsu.edu/)
+
+![Homescreen of a webpage](https://zXtrada.github.com/Zachary-Estrada/images/PaulsCrossProject.png)
