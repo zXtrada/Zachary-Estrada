@@ -15,7 +15,10 @@ _Virtual St. Paul’s Cross Project_ is an auditory and visual digital recreatio
 ###### _3D rendered model of St. Paul's Churchyard, constructed by Joshua Stephens_
 
 ### _Design_
-The 3D virtual model was created using Google SketchUp (shown above) by Joshua Stephens, a graduate student in architecture at NC State University. Images were then rendered from the model and imported into Photoshop by Jordan Gray, another graduate student in architecture from NC State, and details and shading were added to make a more photorealistic image
+The 3D virtual model was created using Google SketchUp (shown above) by Joshua Stephens, a graduate student in architecture at NC State University. Images were then rendered from the model and imported into Photoshop by Jordan Gray, another graduate student in architecture from NC State, and details and shading were added to make a more photorealistic image (shown below). 
+
+![3D rendering of St. Paul's Cross](https://zXtrada.github.io/Zachary-Estrada/images/photoshoprender.jpg)
+
 ### _Relevance_
 
 ### _Findings_
