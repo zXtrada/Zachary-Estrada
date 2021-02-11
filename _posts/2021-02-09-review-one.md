@@ -18,7 +18,7 @@ The 3D virtual model was created using Google SketchUp (shown above) by Joshua S
 
 ![3D rendering of St. Paul's Cross with detail and shading](https://zXtrada.github.io/Zachary-Estrada/images/photoshoprender.jpg)
 
-As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into short, but descriptive headings with drop-down menus that are always
+As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into short, but descriptive headings with drop-down menus that are always present no matter what page you are on. Each page also uses different images, models, and video/audio clips along with headers to break up the text into smaller, more digestible paragraphs.
 
 ### _Relevance_
 
