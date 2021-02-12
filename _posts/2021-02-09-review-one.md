@@ -18,9 +18,10 @@ The 3D virtual model was created using Google SketchUp (shown above) by Joshua S
 
 ![3D rendering of St. Paul's Cross with detail and shading](https://zXtrada.github.io/Zachary-Estrada/images/photoshoprender.jpg)
 
-As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into headings with drop-down menus that are always accessible. Each page also uses different images, models, and video/audio clips along with headers to break up the text into smaller, more digestible paragraphs. The homepage also conveniently links the important parts of the project and provides instructions on how to navigate the website.
+As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into headings with drop-down menus that are always accessible. Each page also uses different images, models, and video/audio clips along with headers to break up the text into smaller, more digestible paragraphs. The homepage also conveniently links the important parts of the project and provides instructions on how to navigate the website. However, this site is not optimized for mobile use. While it is still useable, more than half of the screen is taken up by blank space and requires the user to zoom in order to read the information. This could deter a mobile user from wanting to use this site to learn about the project.
 
 ### _Relevance_
 
+The _Virtual St. Paul’s Cross Project_ integrates numerous disciplines in the field of humanities. It utilizes scholars of architecture, language, history, religion, and theater, along with acoustic engineers and programmers to produce every aspect of this project. It introduces the possibility to bring other historic events and places to life with technology for modern audiences to experience.
 
 ### _Findings_
