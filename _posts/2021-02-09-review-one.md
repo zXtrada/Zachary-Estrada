@@ -14,11 +14,11 @@ _Virtual St. Paul’s Cross Project_ is an auditory and visual digital recreatio
 ![3D rendering of St. Paul's Cross](https://zXtrada.github.io/Zachary-Estrada/images/sketchup.jpg)
 
 ### _Design_
-The 3D virtual model was created using Google SketchUp (shown above) by Joshua Stephens, a graduate student in architecture at NC State University. Images were then rendered from the model and imported into Photoshop by Jordan Gray, another graduate student in architecture from NC State, and details and shading were added to make a more photorealistic image (shown below). The acoustic model was created by Ben Markham and Matt Azevedo using the CATT acoustic modeling program. They are working on a Virtual Reality version of the model using _Epic Games'_ Unreal Engine game environment.
+The 3D virtual model was created using Google SketchUp (shown above) by Joshua Stephens, a graduate student in architecture at NC State University. Images were then rendered from the model and imported into Photoshop by Jordan Gray, another graduate student in architecture from NC State, and details and shading were added to make a more photorealistic image (shown below). The acoustic model was created by Ben Markham and Matt Azevedo using the CATT acoustic modeling program. The project team is also working on a Virtual Reality version of the model using _Epic Games'_ Unreal Engine game environment.
 
 ![3D rendering of St. Paul's Cross with detail and shading](https://zXtrada.github.io/Zachary-Estrada/images/photoshoprender.jpg)
 
-As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into short, but descriptive headings with drop-down menus that are always present no matter what page you are on. Each page also uses different images, models, and video/audio clips along with headers to break up the text into smaller, more digestible paragraphs. The homepage also conveniently links the important parts of the project and provides instructions on how to navigate the website.
+As for the website, it has a very simple and minimalistic design that is easy to navigate. It breaks down its many pages into headings with drop-down menus that are always accessible. Each page also uses different images, models, and video/audio clips along with headers to break up the text into smaller, more digestible paragraphs. The homepage also conveniently links the important parts of the project and provides instructions on how to navigate the website.
 
 ### _Relevance_
 
