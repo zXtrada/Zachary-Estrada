@@ -25,3 +25,5 @@ As for the website, it has a very simple and minimalistic design that is easy to
 The _Virtual St. Paul’s Cross Project_ integrates numerous disciplines in the field of humanities. It utilizes scholars of architecture, language, history, religion, and theater, along with acoustic engineers and programmers to produce every aspect of this project. It introduces the possibility to bring other historic events and places to life with technology for modern audiences to experience.
 
 ### _Findings_
+
+The _Virtual St. Paul’s Cross Project_ is an impressive project, however, the website has a lot of areas for improvement. As mentioned before, the site is not optimized for mobile use. If the site were more mobile-friendly, it would be able to reach a wider audience The site does have headings with drop-down menus that link to different pages, but when a heading is clicked, it takes the user to a blank page with an image on it. It would make the site much easier to use if the heading page also linked to all the pages in its drop-down menu. 
