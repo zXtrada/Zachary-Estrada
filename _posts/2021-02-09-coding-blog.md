@@ -6,7 +6,7 @@ Before starting working on our code, we were assigned transcribed pages of text 
 
 ![Screenshot of a transcription of text in Google Document](https://zXtrada.github.io/Zachary-Estrada/images/screencapture.png)
 
-I used the highlight and comment functions to make my notations. I also designated where each paragraph started and ended using paragaph tags(<p> and </p>), as well as indicating where page breaks are.  This made it much easier and quicker to put text into the program we used to code, Oxygen. Most of my markups were comprised of quotes and em dashes.
+I used the highlight and comment functions to make my notations. I also designated where each paragraph started and ended using paragaph tags(`<p>` and `</p>`), as well as indicating where page breaks are.  This made it much easier and quicker to put text into the program we used to code, Oxygen. Most of my markups were comprised of quotes and em dashes.
 
 When it came time to transfer my TEI to Oxygen, I felt very confident in my coding ability with three years of experience. I did not have any issues with my code, however, I was confused about whether or not to end a quote before or after a page break. I then learned that you could include a page break in the middle of a paragraph.
 
