@@ -12,4 +12,4 @@ When it came time to transfer my TEI to Oxygen, I felt very confident in my codi
 
 ![Screenshot of code in Oxygen](https://zXtrada.github.io/Zachary-Estrada/images/XML.png)
 
-Overall, Oxygen was incredibly easy to use and was even easier after being given some of the code needed for the manuscript.
+Overall, Oxygen was incredibly easy to use and was even easier after being given some of the code needed for the manuscript. While I was not worried about this project in particular due to my background with programming, I was surprised by how simple this project was to complete.
