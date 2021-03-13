@@ -6,7 +6,7 @@
 
 ## _Project URL_: [http://atlas.lib.uiowa.edu/](http://atlas.lib.uiowa.edu/)
 
-![Homescreen of a webpage](https://zXtrada.github.io/Zachary-Estrada/images/reviewone.png)
+![Homescreen of a webpage](https://zXtrada.github.io/Zachary-Estrada/images/atlasone.png)
 
 ### _Summary_
 
