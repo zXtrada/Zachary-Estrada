@@ -28,4 +28,9 @@ The creators of the project intended to use this project as a tool to teach the 
 
 ### _Findings_
 
-Something I did not figure out until messing around with the map for a while, was that there is more information in pop-up boxes when clicking on the points that appear on the map.
+Something I did not figure out until messing around with the map for a while, was that there is more information in pop-up boxes when clicking on the points that appear on the map. This was not mentioned in the **Using the Atlas** page, and being that all of the data is located within the points on the map, it should be included in the directions.
+
+![About tab in a webpage](https://zXtrada.github.io/Zachary-Estrada/images/atlasthree.png)
+
+I also found that there was a very small "i" icon next to the timeline slider that could be hovered over for more information. The pop-up box reveals that the slider can be animated by dragging the points to a smaller selection and pressing the play button. It can also be panned manually using the left and right buttons on the right side of the page.
+
