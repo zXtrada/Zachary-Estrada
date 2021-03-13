@@ -34,3 +34,8 @@ Something I did not figure out until messing around with the map for a while, wa
 
 I also found that there was a very small "i" icon next to the timeline slider that could be hovered over for more information. The pop-up box reveals that the slider can be animated by dragging the points to a smaller selection and pressing the play button. It can also be panned manually using the left and right buttons on the right side of the page.
 
+![About tab in a webpage](https://zXtrada.github.io/Zachary-Estrada/images/atlasfour.png)
+
+Lastly, they included a page full of embedded YouTube videos demonstrating how they made books during the "hand-press" era using 17th century tools. 
+
+Overall, _The Atlas of Early Printing_ is very user-friendly and even fun to use. While I do not know much about 15th century printing, I learned a lot in the week that I was tinkering with the website. It is a great educational to that I would reccommend to anyone with an interest in history.
