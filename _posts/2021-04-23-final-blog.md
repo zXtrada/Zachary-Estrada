@@ -1,1 +1,5 @@
 # Grant Process and Reflection
+
+I must admit that I was very intimidated by the Grant Project at first. However, I was relieved to learn that we were able to work in pairs. At first my partner and I had no idea where to start until we began to think of what fields of the humanities interested us. We both have a fascination with art and art history and I had recently developed an interest in Virtual Reality (VR) so we thought it would be perfect to combine the two. 
+
+Our project is a 3-Dimensional recreation of _A Sunday Afternoon on the Island of La Grande Jatte_ to be viewed using a VR headset. The idea is that every aspect of the painting (the people, animals, trees, boats, etc), as well as the environment, is made into a 3D model so that the viewer can walk around and feel like they are living in the painting.  We thought it would be a great way to modernize art history and make it more accessible and enjoyable for younger audiences. While we only plan to recreate one painting into a virtual environment, we hope to inspire other people to do the same with their favorite work of art. 
