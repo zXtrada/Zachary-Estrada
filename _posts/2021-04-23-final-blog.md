@@ -8,4 +8,8 @@ The concept of the project has evolved significantly as we have worked with it m
 
 While we did not find many similar projects that were explicitly DH, we found quite a few projects that combined classic art and virtual reality. Projects like SoulPancake’s “Explore a Painting in VR ‘A Sunday Afternoon on La Grande Jatte’: Art Attack Master Works” and Exhibition Hub’s “Van Gogh: The Immersive Experience” combine art and VR to make art accessible and more interactive for audiences.
 
+![YouTube video](https://zXtrada.github.io/Zachary-Estrada/images/georgesseurat.png)
+
+![Webpage about Van Gogh Exhibition](https://zXtrada.github.io/Zachary-Estrada/images/vangogh.png)
+
 While their projects and ours have similar goals in mind, ours intends to dive deeper into a more immersive experience for the viewer while also making it available for download to be explored at home.
