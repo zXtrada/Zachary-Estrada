@@ -6,4 +6,6 @@ Our project is a 3-Dimensional recreation of Georges Seurat's _A Sunday Afternoo
 
 The concept of the project has evolved significantly as we have worked with it more. We originally planned to just have the 3D models and the environment be painting with solid colors and be completely stationary. However, we decided that we wanted to paint a texture over the whole environment that would mimic the pointillistic style of Seurat to make it more authentic to the painting. We also wanted to give movement to the environment by having the water, the rowers in the boats, the animals, the leaves of the trees, and the people be animated without shifting from their places in the painting. Lastly, we wanted to add ambience to it with music, laughter, animal noises, leaves rustling, water flowing, etc. to give a full experience to the viewer. 
 
-While we did not find many similar DH projects
+While we did not find many similar projects that were explicitly DH, we found quite a few projects that combined classic art and virtual reality. Projects like SoulPancake’s “Explore a Painting in VR ‘A Sunday Afternoon on La Grande Jatte’: Art Attack Master Works” and Exhibition Hub’s “Van Gogh: The Immersive Experience” combine art and VR to make art accessible and more interactive for audiences.
+
+While their projects and ours have similar goals in mind, ours intends to dive deeper into a more immersive experience for the viewer while also making it available for download to be explored at home.
